@@ -1,0 +1,9 @@
+[submodule "sneakfeed-admin"]
+	path = sneakfeed-admin
+	url = https://github.com/blubeta/sneakfeed-admin
+[submodule "sneakfeed-api"]
+	path = sneakfeed-api
+	url = https://github.com/blubeta/sneakfeed-api
+[submodule "sneakfeed-front"]
+	path = sneakfeed-front
+	url = https://github.com/blubeta/sneakfeed-front
